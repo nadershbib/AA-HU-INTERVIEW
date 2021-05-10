@@ -1,0 +1,25 @@
+
+export const sumOfTwo = (a,b) => a+b;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
